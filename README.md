@@ -2,7 +2,7 @@
 
 
 # MedBot
-!(banner.png)
+![medbot](banner.png)
 
 LangGraph based memory capable web-search tool that assists with medical related queries.
 
